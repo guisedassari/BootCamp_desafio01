@@ -1,0 +1,14 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Sedassari",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "server": "nodemon app.js"
+  }
+}
